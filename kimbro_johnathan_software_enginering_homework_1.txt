@@ -1,18 +1,27 @@
 Homework 01, CPSC-4175 
 Chapter 01, Object-Oriented and Classical Software Engineering July 28, 2017 
 
-1.	With respect to the term software crisis, the textbook list four concerns or components. List the four perceived components of this software crisis.  	Not delivered on time, within budget, fault free ,and meeting client’s needs
+1.	With respect to the term software crisis, the textbook list four concerns or components. List the four perceived components of this software crisis. 
+	Not delivered on time, within budget, fault free ,and meeting client’s needs
 
-2.	Assume that the terms software life-cycle and software development cycle refer to two completely different kinds of things. How would you describe the differences between the two? This should require research beyond the discussion in the text.  	The software life-cycle is from the beginning of the software development to the end of its use.  Software development cycle is the development of the software and the software may still be used at the end of this cycle.
+2.	Assume that the terms software life-cycle and software development cycle refer to two completely different kinds of things. How would you describe the differences between the two? This should require research beyond the discussion in the text. 
+	The software life-cycle is from the beginning of the software development to the end of its use.  Software development cycle is the development of the software and the software may still be used at the end of this cycle.
 
-3.	Give a detailed account of the practice of perfective maintenance. Give a detailed account of the practice of adaptive maintenance. “Detailed account” requires a narrative in sufficient detail to illustrate the differences between these two types of maintenance. You may use hypothetical accounts, accounts from the text, or accounts based on your experience.  	A game developer may have a game that has low quality graphics and may perform perfective maintenance to improve the graphics quality. Now a new operating system comes out and now the developer needs to preform adaptive maintenance to keep the game operating.
+3.	Give a detailed account of the practice of perfective maintenance. Give a detailed account of the practice of adaptive maintenance. “Detailed account” requires a narrative in sufficient detail to illustrate the differences between these two types of maintenance. You may use hypothetical accounts, accounts from the text, or accounts based on your experience. 
+	A game developer may have a game that has low quality graphics and may perform perfective maintenance to improve the graphics quality. Now a new operating system comes out and now the developer needs to preform adaptive maintenance to keep the game operating.
 
-4.	Explain: “The difference between hardware and software is that, as hardware ages it breaks more and more and eventually has to be thrown away, while software as it ages gets better and better and eventually achieves correctness.”  	
-	Hardware is physical and takes wear and tear abrasive damage and even if you upgrade it the old parts begin to breakdown. Software is electronic and stays the same unless you change it. So if it has any problems then they were there to start with so fixing them would only improve the software.   
+4.	Explain: “The difference between hardware and software is that, as hardware ages it breaks more and more and eventually has to be thrown away, while software as it ages gets better and better and eventually achieves correctness.”  
+	Hardware is physical and takes wear and tear abrasive damage and even if you upgrade it the old parts begin to breakdown. Software is electronic and stays the same unless you change it. So if it has any problems then they were there to start with so fixing them would only improve the software.  
+	
 5.	According to the text, the cost of correcting software faults prior to implementation is a fraction of the cost of correcting software faults subsequent to implementation. Also according to the text, the number of faults detected subsequent to implementation is a fraction of the number of faults detected prior to implementation. What does this say to you? 
-	Correct software faults prior to implementation.  
-6.	The book notes that, in software engineering, there are no separate planning, testing, or documentation phases. This tells you something very significant about the practice of software engineering. What does this tell you? Don’t be quick to answer this question. In one important sense, this entire course depends on your answer to this question.  
-7.	Defend this statement: structured programming techniques form an essential part of object oriented programming techniques. Note that the text does not argue that object oriented programming has completely replaced structured programming.  
-8.	In designing a piece of software, is it more important for the developer to frequently interact with the client or with the users? Why or why not?  
-9.	Point 8 of the Software Code of Ethics cited in the text states in part: “Software engineers shall participate in lifelong learning regarding the practice of their profession . . . ”. Identify one activity that you could engage in on a weekly, monthly, quarterly, or yearly basis, for the remainder of your life, that would promote this kind of learning.  
-10.	Read “The Cathedral and the Bazaar” by Eric Steven Raymond in the pdf directory. Write a one paragraph appreciation of this essay. (A paragraph consists of multiple sentences, perhaps between five and ten.)  
+	Correct software faults prior to implementation. 
+	
+6.	The book notes that, in software engineering, there are no separate planning, testing, or documentation phases. This tells you something very significant about the practice of software engineering. What does this tell you? Don’t be quick to answer this question. In one important sense, this entire course depends on your answer to this question. 
+
+7.	Defend this statement: structured programming techniques form an essential part of object oriented programming techniques. Note that the text does not argue that object oriented programming has completely replaced structured programming. 
+
+8.	In designing a piece of software, is it more important for the developer to frequently interact with the client or with the users? Why or why not? 
+
+9.	Point 8 of the Software Code of Ethics cited in the text states in part: “Software engineers shall participate in lifelong learning regarding the practice of their profession . . . ”. Identify one activity that you could engage in on a weekly, monthly, quarterly, or yearly basis, for the remainder of your life, that would promote this kind of learning. 
+
+10.	Read “The Cathedral and the Bazaar” by Eric Steven Raymond in the pdf directory. Write a one paragraph appreciation of this essay. (A paragraph consists of multiple sentences, perhaps between five and ten.) 
