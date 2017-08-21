@@ -21,6 +21,7 @@ Chapter 01, Object-Oriented and Classical Software Engineering July 28, 2017
 7.	Defend this statement: structured programming techniques form an essential part of object oriented programming techniques. Note that the text does not argue that object oriented programming has completely replaced structured programming. 
 
 8.	In designing a piece of software, is it more important for the developer to frequently interact with the client or with the users? Why or why not? 
+I think it may be important to interact with both the user and client. the user is the one that uses the software and has to handle problems but the client is the one paying for the software so it has to be built how the client wants.
 
 9.	Point 8 of the Software Code of Ethics cited in the text states in part: “Software engineers shall participate in lifelong learning regarding the practice of their profession . . . ”. Identify one activity that you could engage in on a weekly, monthly, quarterly, or yearly basis, for the remainder of your life, that would promote this kind of learning. 
 
