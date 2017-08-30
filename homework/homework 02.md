@@ -23,7 +23,7 @@ Chapter 11, Object-Oriented and Classical Software Engineering August 12, 2017
     Functional requirements are what are required to get any function out of the product. Yes there are nonfunctional requirements.  Nonfunctional requirements are more like accessories or finishing touches  
     
 7. What is top-down analysis? You may also see this referred to as structured analysis. How is this different than the case study in chapter 11 in the book?  
-    When you take a single complete statement and break it down into components 
+    When you take a single complete statement and break it down into components. with case study not all case may be requirements.
 
 8. Prototyping is a very controversial issue. Can you think of some reasons why many software engineers think that prototyping is harmful?   
     if it sends the client the wrong idea it could be. 
